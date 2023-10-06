@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    line-height: 2;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+#p1::first-letter, #p2::first-letter, #p3::first-letter, #p4::first-letter, #p5::first-letter, #p6::first-letter{
+    font-size: 25px;
+}
